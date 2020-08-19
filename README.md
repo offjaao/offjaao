@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**offjaao/offjaao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**offjaao/brenoffjaaooxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 😄 Glad for the visit! Take a popcorn and go carefully.
+
+## 💬 Social Medias
+  - 🐤 @offjaao
+  - Discord: jaao#8854
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=offjaao&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
