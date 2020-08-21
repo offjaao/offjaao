@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 😄 Glad for the visit! Take a popcorn and go carefully.
+# 😄 Glad for the visit!
 
 ## 💬 Social Medias
   - 🐤 @offjaao
