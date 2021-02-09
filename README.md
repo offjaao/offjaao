@@ -3,7 +3,7 @@
 # 😄 Glad for the visit!
 
 ## 💬 Social Medias
-  - 🐤 @offjaao
+  - @offjaao
   - Discord: jaao#6128
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=offjaao&show_icons=true&theme=dark)
