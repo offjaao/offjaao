@@ -20,9 +20,9 @@
 </a>
 <a href="https://twitter.com/offjaao">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+  
 <br/>
-
-
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offjaao&theme=material-palenight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&theme=material-palenight&layout=compact)
 
