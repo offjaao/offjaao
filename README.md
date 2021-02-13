@@ -16,10 +16,10 @@ My name is João Lucas, also known as "jaao", I am 19 years old and I study prog
 
 <details>
   <summary>💬 Contact</summary>
-      <img align="left" alt="Discord" target="_blank" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <p>jaao#6128</p>
-    <img align="left" alt="Twitter" target="_blank" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <p>@offjaao</p>
+      <img align="left" alt="Discord" target="_blank" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  jaao#6128
+    <img align="left" alt="Twitter" target="_blank" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+  @offjaao
 </details> 
   
 <br/>
