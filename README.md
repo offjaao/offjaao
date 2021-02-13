@@ -1,6 +1,5 @@
 ### Hi, I'm João 👋
 
-
 ### :hammer: Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/8d1452c2b69fb2a42cf6f3889ff9659a7d35e42cbb45935f5790e81371039fb1/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f6a6176612d69636f6e2d706e672f6a6176612d69636f6e2d706e672d31352e6a7067"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png"/>
@@ -12,6 +11,8 @@
 <img align="left" alt="Intellij" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
+<br/>
+<br/>
 <br/>
 ## 💬 Social Medias
 <a href="https://discord.gg/jaao#6128">
