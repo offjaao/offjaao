@@ -15,7 +15,6 @@
 
 ## 💬 Social Medias 
 
-<br/>
 <a href="https://discord.gg/jaao#6128">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
 </a>
