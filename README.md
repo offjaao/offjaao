@@ -17,9 +17,9 @@ My name is João Lucas, also known as "jaao", I am 19 years old and I study prog
 <details>
   <summary>💬 Contact</summary>
       <img align="left" alt="Discord" target="_blank" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  jaao#6128
+  <p>jaao#6128</p>
     <img align="left" alt="Twitter" target="_blank" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  @offjaao
+  <p>@offjaao</p>
 </details> 
   
 <br/>
