@@ -14,13 +14,15 @@
 <br/>
 <br/>
 <br/>
-## 💬 Social Medias
+## 💬 Social Medias 
+<br/>
 <a href="https://discord.gg/jaao#6128">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
 </a>
 <a href="https://twitter.com/offjaao">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
 <br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offjaao&theme=material-palenight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&theme=material-palenight&layout=compact)
