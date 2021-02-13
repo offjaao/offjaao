@@ -15,7 +15,6 @@ My name is João Lucas, also known as "jaao", I am 19 years old and I study prog
 <br/>
 <br/>
 <br/>
-<br/>
 
 <details>
   <summary>💬 Contact</summary>
