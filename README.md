@@ -30,4 +30,6 @@ My name is João Lucas, also known as jaao, I am 19 years old and I study progra
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offjaao&theme=material-palenight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&theme=material-palenight&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=offjaao&color=blue&style=flat)
+
 
