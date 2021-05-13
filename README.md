@@ -14,21 +14,6 @@ My name is João Lucas, also known as jaao, I am 19 years old and I study progra
 
 <br/>
 <br/>
-<br/>
-
-<details>
-  <summary>💬 Contact</summary>
-   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>jaao#6128</string> 
-  
-   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@offjaao</string> </br>
-</details> 
-  
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offjaao&theme=material-palenight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&theme=material-palenight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=offjaao&color=blue&style=flat)
 
