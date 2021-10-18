@@ -1,5 +1,5 @@
 #### :speech_balloon: Contact
-<a href="www.instagram.com/offjaao"><img alt="Instagram" src="https://img.shields.io/badge/@offjaao-ad0900.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/offjaao" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@offjaao-ad0900.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 #### :speech_balloon: Languages
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ad0900.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
