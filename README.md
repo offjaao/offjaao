@@ -11,4 +11,4 @@
 <a href="#"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDb-C55358.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 
 
-<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&hide=html&layout=compact&theme=onedark&locale=pt-br)</a>
+<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&hide=html&layout=compact&theme=aura_dark&locale=pt-br)</a>
