@@ -1,11 +1,11 @@
-#### ✍ Languages
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-C55358.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-C55358.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+I'm João, a 20 years old developer from Brazil.
 
-#### :wrench: Tools
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-C55358.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-C55358.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="#"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDb-C55358.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+## Skills
+- 👨‍💻 Java, Python
+- 💽 MySQL, SQL, Mongo, Redis
+- 🔧 IntelliJ, VS Code
 
-
-<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offjaao&hide=html&layout=compact&theme=aura_dark)</a>
+## Contact
+- [@offjaao](https://twitter.com/offjaao) on Twitter
+- [jaao#6128](./) on Discord
