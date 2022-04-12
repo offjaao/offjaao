@@ -1,9 +1,10 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-I'm João, a 20 years old developer from Brazil.
+
+Hi, I'm a backend developer and I love putting my ideas into practice.
 
 ## Skills
-- 👨‍💻 Java, Python
-- 💽 MySQL, SQL, Mongo, Redis
+- 👨‍💻 Java
+- 💽 MySQL, SQL, Mongo
 - 🔧 IntelliJ, VS Code
 
 ## Contact
