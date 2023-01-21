@@ -3,7 +3,7 @@
 Hi, I'm a backend developer and I love putting my ideas into practice.
 
 ## Skills
-- 👨‍💻 Java
+- 👨‍💻 Java and ReactJS
 - 💽 MySQL, SQL, Mongo
 - 🔧 IntelliJ, VS Code
 
