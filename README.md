@@ -75,6 +75,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ###
