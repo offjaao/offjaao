@@ -44,8 +44,8 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://instagram.com/offjaao" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  <a href="https://twitter.com/offjaao" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00ACEE&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
   <a href="jaao#6128" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
