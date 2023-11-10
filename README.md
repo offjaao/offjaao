@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="center">Welcome to my github 👋<br>My name is João Borges, I'm 21 years old.<br>I am currently trained in systems analysis and development and i love creating and putting new ideas into practice.</p>
+<p align="center">Welcome to my github 👋<br>My name is João Borges, I'm 22 years old.<br>I am currently trained in systems analysis and development and i love creating and putting new ideas into practice.</p>
 
 ###
 
