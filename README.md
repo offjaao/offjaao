@@ -1,78 +1,57 @@
 <h3 align="center">👋 About</h3>
 
-###
 
 <div align="center">
   <img height="175" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 </div>
 
-###
-
 <br clear="both">
 
 <p align="center">Welcome to my github 👋<br>My name is João Borges, I'm 22 years old.<br>I am currently trained in systems analysis and development and i love creating and putting new ideas into practice.</p>
 
-###
-
-<h3 align="center">📚 Learning</h3>
-
-###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="39" width="51" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="39" width="51" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="39" width="51" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="39" width="51" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="39" width="51" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="39" width="51" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="39" width="51" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="39" width="51" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="39" width="51" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="39" width="51" alt="postgresql logo"  />
-</div>
+  <br/><br/>
+ <pre>👨‍💻 S K I L L S</pre> 
 
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="center">📩 Contact</h3>
-
-###
-
-<br clear="both">
+ <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+  <a href="https://www.javascripttutorial.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+ <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> 
+ <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/spring-logo.png"/></a>
+ </div>
 
 <div align="center">
-  <a href="https://twitter.com/offjaao" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00ACEE&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/305429179032141826" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/offjaao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
+ 
+<pre>🗒️ D A T A B A S E</pre>
+
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+ <a href="https://firebase.google.com" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png"/></a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/></a>
+ <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/redis.png"/></a>
+
 </div>
-
-###
-
-<p align="left"></p>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=offjaao" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=offjaao" height="150" alt="languages graph"  />
+ 
+   <pre>🚀 T O O L S </pre>
+   
+<a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="https://icons8.com/icon/61466/intellij-idea"><img src="https://img.icons8.com/color/48/4a90e2/intellij-idea.png"/></a>
+
 </div>
 
-###
+<br>
+<br>
+<br>
+<br>
 
-<div align="left">
+<div align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+   <pre>👨🏼‍🤝‍👨🏼 C O N N E C T  W I T H   M E </pre>
+
+ <a href = "https://www.instagram.com/offjaao"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+ <a href = "https://www.linkedin.com/in/offjaao/"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href = "https://discord.com/users/305429179032141826"><img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
+
 </div>
-
-###
-
-<br clear="both">
-
-###
